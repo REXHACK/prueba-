@@ -1,2 +1,2 @@
 # prueba
-se creo este repositorio para hacer pruebas  del vercionamiento 
+se creo esté repositorio como prueba del versionamiento 
