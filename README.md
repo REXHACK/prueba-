@@ -1,2 +1,2 @@
-# prueba-
-esta es una prueba de como funciona 
+# prueba
+se creo este repositorio para hacer pruebas  del vercionamiento 
